@@ -244,7 +244,7 @@ body {
     position: fixed;
     top: 0;
     width: 70%;
-    max-width: 25rem;
+    max-width: 30rem;
     height: 100%;
     background: var(--color-white);
     transition: transform 0.3s ease;
@@ -259,7 +259,7 @@ body {
     margin: 0 .75rem;
 }
 .search-mobile input {
-    font-size: 1.65rem;
+    font-size: var(--fong-main-title);
     width: 100%;
     padding: var(--padding-36) var(--padding-44);
 }
@@ -296,7 +296,7 @@ body {
     display: flex;
     align-items: center;
     gap: var(--gap-icons);
-    font-size: 1.65rem;
+    font-size: var(--fong-main-title);
     padding: var(--padding-29) 0;
 }
 .mobile-menu li i {
