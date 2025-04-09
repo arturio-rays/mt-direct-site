@@ -268,7 +268,7 @@ body {
     justify-content: center;
     background-image: var(--ads-gradient);
     color: var(--color-white);
-    font-size: 2.85rem;
+    font-size: 2.25rem;
     padding: var(--padding-44) 0; 
 }
 .mobile-menu {
@@ -288,9 +288,6 @@ body {
 }
 .mobile-menu ul .icon-news {
     margin-right: -0.3rem;
-}
-.mobile-social i {
-    padding-left: var(--padding-22);
 }
 .mobile-menu li a {
     display: flex;
@@ -856,7 +853,7 @@ a:hover .views i {
     background-color: var(--color-blue-logo);
     font-size: var(--font-regular);
     border-radius: var(--radius-medium);
-    padding: var(--padding-44) var(--padding-58);
+    padding: var(--padding-44) var(--padding-29);
 }
 .sidebar-contact a:hover {
     background-color: var(--color-blue-light);
