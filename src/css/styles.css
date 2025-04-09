@@ -135,7 +135,7 @@ body {
 }
 .container {
     width: 100%;
-    max-width: clamp(80rem, 100vw, 256rem); /* 1280px → 4096px; min = 256 * 0.3131 ≈ 80 */
+    max-width: clamp(20rem, 100vw, 160rem); /* 1280px → 4096px; min = 256 * 0.3131 ≈ 80 */
     padding: 0 var(--padding-116);
     margin: 0 auto;
 }
