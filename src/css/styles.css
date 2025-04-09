@@ -134,8 +134,7 @@ body {
     margin: 0 auto;
 }
 .container {
-    width: 100%;
-    max-width: clamp(20rem, 100vw, 160rem); /* 1280px → 4096px; min = 256 * 0.3131 ≈ 80 */
+    width: clamp(20rem, 100vw, 160rem); /* 1280px → 4096px; min = 256 * 0.3131 ≈ 80 */
     padding: 0 var(--padding-116);
     margin: 0 auto;
 }
