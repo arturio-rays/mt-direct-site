@@ -123,7 +123,6 @@ html {
 }
 body {
     width: 100%;
-    max-width: 2560px;
     color: var(--color-black);
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
